@@ -1,0 +1,7 @@
+exercise/
+/연습장.py
+/.DS_Store
+*txt 
+/README.md
+# .txt확장자 깃 제외
+input.txt
